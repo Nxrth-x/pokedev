@@ -1,0 +1,15 @@
+export default {
+  water: 'blue',
+  electric: 'yellow',
+  fire: 'red',
+  grass: 'green',
+  bug: 'green',
+  ghost: 'gray',
+  ground: 'yellow',
+  psychic: 'purple',
+  normal: 'pink',
+  dragon: 'red',
+  steel: 'gray',
+  poison: 'purple',
+  rock: 'gray',
+}
